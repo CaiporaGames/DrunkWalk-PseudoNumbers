@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9a328e30e845c143affb009faefb742, type: 3}
+  m_Name: Grid Values
+  m_EditorClassIdentifier: 
+  xLength: 10
+  yLength: 10
+  spacing: 1.084
+  currentPlayerPos: 83
+  targetPosition: 91
+  stepTimer: 0
+  stopGame: 0
+  gridColor: {fileID: 2100000, guid: 9add3eb7a5c08274db959b53b616d048, type: 2}
+  isPerlin: 0
+  isPow: 0
+  isSin: 0
+  isProduct: 0
